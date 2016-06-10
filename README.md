@@ -13,6 +13,7 @@ Finally you must install the ofsoftswitch tool. This tool is similar to Open vSw
 Install required libraries:
 
 sudo apt-get install -y git-core autoconf automake autotools-dev pkg-config \
+
      make gcc g++ libtool libc6-dev cmake libpcap-dev libxerces-c2-dev \
      unzip libpcre3-dev flex bison libboost-dev
 
